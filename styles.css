@@ -8,4 +8,69 @@
     color: #f5f5f5; 
   }
 
+  .pageTwo {
+    background: url("https://i.postimg.cc/prgvM8pS/IMG-20191031-093313-580.jpg") 
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    padding: 5%;
+    text-align:center;
+    color: #f5f5f5; 
+    display: block;
+    overflow: auto;
+    }
   
+  #projects {
+    position: relative;
+    width: 350px;
+    height: 260px;
+    margin: 15px;
+  }
+
+  .pageThree {
+    background: url("https://wallpaperaccess.com/full/465921.jpg") 
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    padding: 10%;   
+    color: #fff;    
+  }
+  
+  .pageFour {
+   background: url("https://www.spacex.com/sites/spacex/files/starship_image_0008_9.jpg") 
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 990px;
+    padding: 10%;
+    color: #f5f5f5;  
+  }
+
+  #msg {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 50px auto;
+  }
+  
+  p {
+   font-size: 1.5em;
+  }
+  
+  .d {
+    text-align: center;
+    padding: 65px;  
+    }
+  
+  #welcome-section {  
+      position: absolute;
+      top: 18%;
+      left: 50%;
+      transform: translate(-50%, 15%);
+      height: 100vh; 
+          }
+  
+  html {
+      font-size: 1.3vw;
+      font-size: 1.5vmin;
+      font-size: 1vmax;
+      }
+
