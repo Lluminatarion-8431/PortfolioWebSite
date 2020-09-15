@@ -9,7 +9,7 @@
   }
 
   .pageTwo {
-    background: url("https://i.postimg.cc/prgvM8pS/IMG-20191031-093313-580.jpg") 
+    background: url("https://www.spacex.com/static/images/backgrounds/fh_video.webp") 
     no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
@@ -28,16 +28,16 @@
   }
 
   .pageThree {
-    background: url("https://wallpaperaccess.com/full/465921.jpg") 
+    background: url("https://i.postimg.cc/prgvM8pS/IMG-20191031-093313-580.jpg") 
     no-repeat center center fixed;
-    background-size: cover;
+    background-size: 80em;
     height: 100vh;
     padding: 10%;   
     color: #fff;    
   }
   
   .pageFour {
-   background: url("https://www.spacex.com/sites/spacex/files/starship_image_0008_9.jpg") 
+   background: url("https://wallpaperaccess.com/full/465921.jpg") 
     no-repeat center center fixed;
     background-size: cover;
     height: 990px;
